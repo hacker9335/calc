@@ -1,13 +1,13 @@
 ## Calculator
 
-CircuitPython calculator firmware for a Feather RP2040 with DVI output, driven by a 5x4 matrix keypad.
+Calculator running on CircuitPython firmware with a Feather RP2040 with DVI output, driven by a 5x4 matrix keypad.
  
 ## Hardware
  
 - Adafruit Feather RP2040 DVI 
 - 5x4 matrix keypad, diodes pointing toward the columns (cathode at column, anode at row)
 - HDMI/DVI display — tested target is a 7" 1024x600 panel, driven at 800x480 (panel scales it down)
-- 
+  
 ## Keymap
  
 ```
@@ -38,7 +38,7 @@ I dint yet make the display part of the case as im planning to do tht after i ge
 
 
 
-- <img width="1358" height="887" alt="image" src="https://github.com/user-attachments/assets/7970faff-ff9e-44f4-a9b9-cc3b9c40e8d1" />
+<img width="1358" height="887" alt="image" src="https://github.com/user-attachments/assets/7970faff-ff9e-44f4-a9b9-cc3b9c40e8d1" />
 
 <img width="1493" height="595" alt="image" src="https://github.com/user-attachments/assets/bb461423-c564-4fbb-855a-99343c13546c" />
 
