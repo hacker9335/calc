@@ -1,4 +1,4 @@
-##Calculator
+## Calculator
 
 CircuitPython calculator firmware for a Feather RP2040 with DVI output, driven by a 5x4 matrix keypad.
  
@@ -33,7 +33,7 @@ clear  0      .      sum
 - single press → clears the current entry/expression only
 - triple press within ~0.6s → also wipes the stored `x` value (shows `mem cleared`)
 
-##Case
+## Case
 I dint yet make the display part of the case as im planning to do tht after i get it
 
 
